@@ -1,10 +1,10 @@
-Project Status
-Version: 7.0 (Final Production Release)
-Platform Name: Cascade Intelligence
-Submission Type: IBM AI Builders Challenge: Wildcard Challenge
-Development Status: Complete
-Prepared for: IBM AI Builders Challenge Submission
-Prepared by: Lavender Odinaka Ekweremadu 
+Project Status-
+- Version: 7.0 (Final Production Release)
+- Platform Name: Cascade Intelligence
+- Submission Type: IBM AI Builders Challenge: Wildcard Challenge
+- Development Status: Complete
+- Prepared for: IBM AI Builders Challenge Submission
+- Prepared by: Lavender Odinaka Ekweremadu 
 
 README Document
 •	Problem statement - 
