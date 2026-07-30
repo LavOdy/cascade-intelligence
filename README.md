@@ -7,7 +7,7 @@ Prepared for: IBM AI Builders Challenge Submission
 Prepared by: Lavender Odinaka Ekweremadu 
 
 README Document
-•	Problem statement
+•	Problem statement - 
 Modern executive leaders, policymakers, business strategists, and organizational decision-makers face increasingly complex decisions involving multiple interconnected systems. A single strategic decision can create ripple effects across economics, technology, geopolitics, workforce development, environmental sustainability, and social equity.
 Traditional decision-support tools often focus on isolated metrics and provide limited visibility into these broader consequences. Many organizations therefore struggle to evaluate long-term impacts before implementing critical decisions.
 Cascade Intelligence was developed to address this challenge by providing a structured executive decision intelligence platform capable of simulating cross-sector consequences, organizing complex reasoning into executive-ready reports, and preparing organizations for more informed strategic planning.
