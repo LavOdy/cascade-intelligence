@@ -6,6 +6,7 @@ Project Status-
 - Prepared for: IBM AI Builders Challenge Submission
 - Prepared by: Lavender Odinaka Ekweremadu 
 
+Presentation Video- https://youtu.be/9A7VZFr5ndc
 README Document
 •	Problem statement - 
 Modern executive leaders, policymakers, business strategists, and organizational decision-makers face increasingly complex decisions involving multiple interconnected systems. A single strategic decision can create ripple effects across economics, technology, geopolitics, workforce development, environmental sustainability, and social equity.
